@@ -5,6 +5,7 @@
 # 멀티페이지 구성
 # 폴더이름은 무조건 pages
 # session_state
+# st.camera_input 
 
 #$ pip install streamlit 
 #$ streamlit run 파일명.py

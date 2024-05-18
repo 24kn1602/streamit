@@ -1,0 +1,166 @@
+<div class="inner_table">
+                
+                <table class="tbl_record">
+                    <caption class="ir_caption">순위 결과표</caption>
+                    <colgroup>
+                        <col class="col1"><col class="col2">
+                        <col><col><col><col><col><col><col><col>
+                    </colgroup>
+                    <thead><tr>
+                        <th scope="col" class="th_rank"><span class="txt_col">순위</span></th><th scope="col" class="th_name"><span class="txt_col">팀</span></th>
+                            <th scope="col" data-sort="game" data-whole-sort="" data-key="" data-order="" data-text="" data-decimal="" data-rank="true" class=""><span class="btn_sort">경기</span></th>
+                            <th scope="col" data-sort="win" data-whole-sort="" data-key="" data-order="" data-text="" data-decimal="" data-rank="true" class=""><span class="btn_sort">승</span></th>
+                            <th scope="col" data-sort="draw" data-whole-sort="" data-key="" data-order="" data-text="" data-decimal="" data-rank="true" class=""><span class="btn_sort">무</span></th>
+                            <th scope="col" data-sort="loss" data-whole-sort="" data-key="" data-order="" data-text="" data-decimal="" data-rank="true" class=""><span class="btn_sort">패</span></th>
+                            <th scope="col" data-sort="gf" data-whole-sort="" data-key="" data-order="" data-text="" data-decimal="" data-rank="true" class=""><span class="btn_sort">득점</span></th>
+                            <th scope="col" data-sort="ga" data-whole-sort="" data-key="" data-order="" data-text="" data-decimal="" data-rank="true" class=""><span class="btn_sort">실점</span></th>
+                            <th scope="col" data-sort="gd" data-whole-sort="" data-key="" data-order="" data-text="" data-decimal="" data-rank="true" class=""><span class="btn_sort">득실차</span></th>
+                            <th scope="col" data-sort="rank" data-whole-sort="" data-key="pts" data-order="asc" data-text="" data-decimal="" data-rank="true" class=""><span class="btn_sort sort_on">승점</span></th>
+                    </tr></thead>
+                    <tbody><tr class="">
+    <td class="td_rank">1<span class="ico_rankrule" style="background-color:#6297FF">ACLE 출전 자격</span></td>
+    <td class="td_name">
+        <a href="/team/kl/3" class="link_thumb #team_name">
+            
+            <div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/C100x100/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmedia%2Fimg-section%2Fsports13%2Flogo%2Fteam%2F6%2FK03_300300.png&amp;scode=sports" width="32" height="32" alt="포항"></div>
+        <span class="txt_name">포항<span class="ico_comm5"></span></span>
+        </a>
+    </td>
+    
+    <td data-field="game" data-value="12">12</td><td data-field="win" data-value="7">7</td><td data-field="draw" data-value="4">4</td><td data-field="loss" data-value="1">1</td><td data-field="gf" data-value="19">19</td><td data-field="ga" data-value="9">9</td><td data-field="gd" data-value="10">10</td><td data-field="rank" data-value="1" class="selected_on">25</td>
+</tr>
+<tr class="">
+    <td class="td_rank">2<span class="ico_rankrule" style="background-color:#6297FF">ACLE 출전 자격</span></td>
+    <td class="td_name">
+        <a href="/team/kl/1" class="link_thumb #team_name">
+            
+            <div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/C100x100/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmedia%2Fimg-section%2Fsports13%2Flogo%2Fteam%2F6%2FK01_300300.png&amp;scode=sports" width="32" height="32" alt="울산"></div>
+        <span class="txt_name">울산<span class="ico_comm5"></span></span>
+        </a>
+    </td>
+    
+    <td data-field="game" data-value="12">12</td><td data-field="win" data-value="7">7</td><td data-field="draw" data-value="3">3</td><td data-field="loss" data-value="2">2</td><td data-field="gf" data-value="25">25</td><td data-field="ga" data-value="15">15</td><td data-field="gd" data-value="10">10</td><td data-field="rank" data-value="2" class="selected_on">24</td>
+</tr>
+<tr class="">
+    <td class="td_rank">3<span class="ico_rankrule" style="background-color:#FFBF20">ACL2 출전 자격</span></td>
+    <td class="td_name">
+        <a href="/team/kl/601032" class="link_thumb #team_name">
+            
+            <div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/C100x100/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmedia%2Fimg-section%2Fsports13%2Flogo%2Fteam%2F6%2FK35_300300.png&amp;scode=sports" width="32" height="32" alt="김천"></div>
+        <span class="txt_name">김천<span class="ico_comm5"></span></span>
+        </a>
+    </td>
+    
+    <td data-field="game" data-value="12">12</td><td data-field="win" data-value="6">6</td><td data-field="draw" data-value="4">4</td><td data-field="loss" data-value="2">2</td><td data-field="gf" data-value="18">18</td><td data-field="ga" data-value="14">14</td><td data-field="gd" data-value="4">4</td><td data-field="rank" data-value="3" class="selected_on">22</td>
+</tr>
+<tr class="">
+    <td class="td_rank">4</td>
+    <td class="td_name">
+        <a href="/team/kl/163986" class="link_thumb #team_name">
+            
+            <div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/C100x100/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmedia%2Fimg-section%2Fsports13%2Flogo%2Fteam%2F6%2FK29_300300.png&amp;scode=sports" width="32" height="32" alt="수원FC"></div>
+        <span class="txt_name">수원FC<span class="ico_comm5"></span></span>
+        </a>
+    </td>
+    
+    <td data-field="game" data-value="12">12</td><td data-field="win" data-value="5">5</td><td data-field="draw" data-value="3">3</td><td data-field="loss" data-value="4">4</td><td data-field="gf" data-value="14">14</td><td data-field="ga" data-value="18">18</td><td data-field="gd" data-value="-4">-4</td><td data-field="rank" data-value="4" class="selected_on">18</td>
+</tr>
+<tr class="">
+    <td class="td_rank">5</td>
+    <td class="td_name">
+        <a href="/team/kl/20" class="link_thumb #team_name">
+            
+            <div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/C100x100/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmedia%2Fimg-section%2Fsports13%2Flogo%2Fteam%2F6%2FK21_300300.png&amp;scode=sports" width="32" height="32" alt="강원"></div>
+        <span class="txt_name">강원<span class="ico_comm5"></span></span>
+        </a>
+    </td>
+    
+    <td data-field="game" data-value="12">12</td><td data-field="win" data-value="4">4</td><td data-field="draw" data-value="4">4</td><td data-field="loss" data-value="4">4</td><td data-field="gf" data-value="22">22</td><td data-field="ga" data-value="23">23</td><td data-field="gd" data-value="-1">-1</td><td data-field="rank" data-value="5" class="selected_on">16</td>
+</tr>
+<tr class="">
+    <td class="td_rank">6</td>
+    <td class="td_name">
+        <a href="/team/kl/3035" class="link_thumb #team_name">
+            
+            <div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/C100x100/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmedia%2Fimg-section%2Fsports13%2Flogo%2Fteam%2F6%2FK22_300300.png&amp;scode=sports" width="32" height="32" alt="광주"></div>
+        <span class="txt_name">광주<span class="ico_comm5"></span></span>
+        </a>
+    </td>
+    
+    <td data-field="game" data-value="12">12</td><td data-field="win" data-value="5">5</td><td data-field="draw" data-value="0">0</td><td data-field="loss" data-value="7">7</td><td data-field="gf" data-value="21">21</td><td data-field="ga" data-value="20">20</td><td data-field="gd" data-value="1">1</td><td data-field="rank" data-value="6" class="selected_on">15</td>
+</tr>
+<tr class="">
+    <td class="td_rank">7</td>
+    <td class="td_name">
+        <a href="/team/kl/9" class="link_thumb #team_name">
+            
+            <div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/C100x100/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmedia%2Fimg-section%2Fsports13%2Flogo%2Fteam%2F6%2FK09_300300.png&amp;scode=sports" width="32" height="32" alt="서울"></div>
+        <span class="txt_name">서울<span class="ico_comm5"></span></span>
+        </a>
+    </td>
+    
+    <td data-field="game" data-value="12">12</td><td data-field="win" data-value="4">4</td><td data-field="draw" data-value="3">3</td><td data-field="loss" data-value="5">5</td><td data-field="gf" data-value="17">17</td><td data-field="ga" data-value="16">16</td><td data-field="gd" data-value="1">1</td><td data-field="rank" data-value="7" class="selected_on">15</td>
+</tr>
+<tr class="">
+    <td class="td_rank">8</td>
+    <td class="td_name">
+        <a href="/team/kl/18" class="link_thumb #team_name">
+            
+            <div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/C100x100/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmedia%2Fimg-section%2Fsports13%2Flogo%2Fteam%2F6%2FK18_300300.png&amp;scode=sports" width="32" height="32" alt="인천"></div>
+        <span class="txt_name">인천<span class="ico_comm5"></span></span>
+        </a>
+    </td>
+    
+    <td data-field="game" data-value="12">12</td><td data-field="win" data-value="3">3</td><td data-field="draw" data-value="5">5</td><td data-field="loss" data-value="4">4</td><td data-field="gf" data-value="16">16</td><td data-field="ga" data-value="16">16</td><td data-field="gd" data-value="0">0</td><td data-field="rank" data-value="8" class="selected_on">14</td>
+</tr>
+<tr class="">
+    <td class="td_rank">9</td>
+    <td class="td_name">
+        <a href="/team/kl/4" class="link_thumb #team_name">
+            
+            <div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/C100x100/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmedia%2Fimg-section%2Fsports13%2Flogo%2Fteam%2F6%2FK04_300300.png&amp;scode=sports" width="32" height="32" alt="제주"></div>
+        <span class="txt_name">제주<span class="ico_comm5"></span></span>
+        </a>
+    </td>
+    
+    <td data-field="game" data-value="12">12</td><td data-field="win" data-value="4">4</td><td data-field="draw" data-value="2">2</td><td data-field="loss" data-value="6">6</td><td data-field="gf" data-value="12">12</td><td data-field="ga" data-value="17">17</td><td data-field="gd" data-value="-5">-5</td><td data-field="rank" data-value="9" class="selected_on">14</td>
+</tr>
+<tr class="">
+    <td class="td_rank">10<span class="ico_rankrule" style="background-color:#82DBD8">K리그2 3~5위 승리팀과 승강 플레이오프</span></td>
+    <td class="td_name">
+        <a href="/team/kl/10" class="link_thumb #team_name">
+            
+            <div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/C100x100/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmedia%2Fimg-section%2Fsports13%2Flogo%2Fteam%2F6%2FK10_300300.png&amp;scode=sports" width="32" height="32" alt="대전"></div>
+        <span class="txt_name">대전<span class="ico_comm5"></span></span>
+        </a>
+    </td>
+    
+    <td data-field="game" data-value="12">12</td><td data-field="win" data-value="2">2</td><td data-field="draw" data-value="5">5</td><td data-field="loss" data-value="5">5</td><td data-field="gf" data-value="13">13</td><td data-field="ga" data-value="16">16</td><td data-field="gd" data-value="-3">-3</td><td data-field="rank" data-value="10" class="selected_on">11</td>
+</tr>
+<tr class="">
+    <td class="td_rank">11<span class="ico_rankrule" style="background-color:#35CA85">K리그2 2위팀과 승강 플레이오프</span></td>
+    <td class="td_name">
+        <a href="/team/kl/17" class="link_thumb #team_name">
+            
+            <div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/C100x100/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmedia%2Fimg-section%2Fsports13%2Flogo%2Fteam%2F6%2FK17_300300.png&amp;scode=sports" width="32" height="32" alt="대구"></div>
+        <span class="txt_name">대구<span class="ico_comm5"></span></span>
+        </a>
+    </td>
+    
+    <td data-field="game" data-value="12">12</td><td data-field="win" data-value="2">2</td><td data-field="draw" data-value="5">5</td><td data-field="loss" data-value="5">5</td><td data-field="gf" data-value="11">11</td><td data-field="ga" data-value="17">17</td><td data-field="gd" data-value="-6">-6</td><td data-field="rank" data-value="11" class="selected_on">11</td>
+</tr>
+<tr class="">
+    <td class="td_rank">12<span class="ico_rankrule" style="background-color:#FF7171">k리그2 강등</span></td>
+    <td class="td_name">
+        <a href="/team/kl/5" class="link_thumb #team_name">
+            
+            <div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/C100x100/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmedia%2Fimg-section%2Fsports13%2Flogo%2Fteam%2F6%2FK05_300300.png&amp;scode=sports" width="32" height="32" alt="전북"></div>
+        <span class="txt_name">전북<span class="ico_comm5"></span></span>
+        </a>
+    </td>
+    
+    <td data-field="game" data-value="12">12</td><td data-field="win" data-value="2">2</td><td data-field="draw" data-value="4">4</td><td data-field="loss" data-value="6">6</td><td data-field="gf" data-value="15">15</td><td data-field="ga" data-value="22">22</td><td data-field="gd" data-value="-7">-7</td><td data-field="rank" data-value="12" class="selected_on">10</td>
+</tr>
+</tbody>
+                </table>
+            </div>

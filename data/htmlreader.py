@@ -1,7 +1,7 @@
 import pandas as pd
 
 # 텍스트 파일에서 HTML 데이터 읽기
-with open('data/table_data.txt', 'r', encoding='utf-8') as file:
+with open('data/table_data2.txt', 'r', encoding='utf-8') as file:
     html_content = file.read()
 
 # HTML 내용을 데이터프레임으로 변환
